@@ -1,0 +1,25 @@
+{
+  "name": "good_cardboard",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuremkarmerurk/good-cardboard.git"
+  },
+  "author": "Vasily Shatalkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuremkarmerurk/good-cardboard/issues"
+  },
+  "homepage": "https://github.com/kuremkarmerurk/good-cardboard#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-git": "^2.7.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
